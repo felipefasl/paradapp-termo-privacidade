@@ -1,4 +1,4 @@
-# Termo de Privacidade do Aplicativo ParadApp Emergeência Rules
+# Termo de Privacidade do Aplicativo ParadApp Emergência Rules
 
 ## Privacy Policy
 
