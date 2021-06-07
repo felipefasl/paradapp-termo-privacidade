@@ -1,6 +1,6 @@
 # Termo de Privacidade do Aplicativo ParadApp Emergência Rules
 
-## Privacy Policy
+## Política de Privacidade
 
 Esta página é usada para informar os visitantes sobre políticas de coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar o **ParadApp Emergência Rules**.
 
