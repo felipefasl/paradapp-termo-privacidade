@@ -12,7 +12,7 @@ Os termos usados nesta Política de Privacidade têm os mesmos significados que 
 
 Para uma melhor experiência, ao usar nosso Serviço, podemos solicitar que você nos forneça determinadas informações de identificação pessoal, incluindo, mas não se limitando a Termos de Privacidade. As informações que solicitamos serão retidas em seu dispositivo e não serão coletadas por mim de forma alguma.
 
-## Dados de registro**
+## Dados de registro
 
 Queremos informar que sempre que você utiliza o **ParadApp Emergência Rules**, em caso de erro no aplicativo, coletamos dados e informações (por meio de produtos de terceiros) no seu telefone chamado Log Data. Esses dados de registro podem incluir informações como endereço de protocolo de Internet ("IP") do dispositivo, nome do dispositivo, versão do sistema operacional, configuração do aplicativo ao utilizar meu serviço, hora e data de uso do serviço e outras estatísticas .
 
